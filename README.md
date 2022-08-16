@@ -3,7 +3,7 @@
 ## 📜 Description
 Play any song through the microphone and let Shazamify identify the song, connect to your Spotify account, and add the song to the playlist of your choosing
 
-## 🧑🏽‍💻 Development
+## 💻 Development
 Created using ShazamAPI and the Spotipy API\
 GUI made using Tkinter\
 Audio recorded using pyaudio and pydub
